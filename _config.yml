@@ -1,0 +1,8 @@
+title: Mock
+description: 模拟请求 & 模拟数据
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
